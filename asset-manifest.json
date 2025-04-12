@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nedc-website/static/css/main.bcb8e564.css",
-    "main.js": "/nedc-website/static/js/main.3f8a31a8.js",
+    "main.js": "/nedc-website/static/js/main.d3256c31.js",
     "static/js/453.195b869a.chunk.js": "/nedc-website/static/js/453.195b869a.chunk.js",
     "static/media/slick.svg": "/nedc-website/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/nedc-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/nedc-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/nedc-website/index.html",
     "main.bcb8e564.css.map": "/nedc-website/static/css/main.bcb8e564.css.map",
-    "main.3f8a31a8.js.map": "/nedc-website/static/js/main.3f8a31a8.js.map",
+    "main.d3256c31.js.map": "/nedc-website/static/js/main.d3256c31.js.map",
     "453.195b869a.chunk.js.map": "/nedc-website/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb8e564.css",
-    "static/js/main.3f8a31a8.js"
+    "static/js/main.d3256c31.js"
   ]
 }
